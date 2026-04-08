@@ -1,5 +1,8 @@
 # Nylon Filament 3D Printing Guide
 
+![GitHub stars](https://img.shields.io/github/stars/nylonplastic/nylon-3d-printing-guide?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/nylonplastic/nylon-3d-printing-guide)
+
 **Engineer-tested printing parameters and troubleshooting guides for nylon filaments – helping you print high-performance parts reliably and efficiently.**
 
 ---
@@ -51,6 +54,10 @@ Nylon has a high shrinkage rate. When it cools, it contracts – causing corners
 
 **Solution**: Dry your filament at 70–90 °C for 4–12 hours (or longer if heavily saturated). Print directly from a heated dryer if possible.
 
+> For a deeper dive into filament drying best practices, see our article:  
+> [How to Dry Nylon Filament Correctly](https://nylonplastic.com/category/3d-printing-service/)  
+> *(Full drying protocol with temperature curves and storage tips – available on our website)*
+
 ### 🔸 Do I really need an enclosure?
 
 For small parts (under 50 mm), you may succeed without one. For medium to large parts, especially with PA6, an enclosure is strongly recommended. It prevents drafts, maintains consistent temperature, and reduces warping.
@@ -84,9 +91,11 @@ Keep it in an **airtight container** with fresh silica gel desiccant. For long-t
 
 ## 🔗 Related Resources
 
-- [3D Printing Service](https://nylonplastic.com/category/3d-printing-service/) – Fast-turnaround prototyping and small-batch production
-- [Nylon Plastic Granules](https://nylonplastic.com/category/nylon-plastic-granules/) – Engineering-grade raw materials for injection molding and extrusion
-- [Nylon Plastic Main Website](https://nylonplastic.com/) – Explore all filaments, guides, and industrial solutions
+For more detailed information on nylon filament properties, drying techniques, and advanced printing tips, explore our [3D Printing Service](https://nylonplastic.com/category/3d-printing-service/) – where we apply these settings to real-world projects.
+
+If you're looking for engineering-grade raw materials, check out our [Nylon Plastic Granules](https://nylonplastic.com/category/nylon-plastic-granules/) for injection molding and extrusion.
+
+Visit our [Main Website](https://nylonplastic.com/) for the full range of filaments, technical datasheets, and industrial solutions.
 
 ---
 
@@ -96,4 +105,4 @@ This repository is licensed under the **MIT License** – you are free to use, m
 
 ---
 
-*Maintained by [Nylon Plastic](https://nylonplastic.com) – engineering-grade filaments for demanding applications since 2005.*
+*This guide is maintained by the team at [Nylon Plastic](https://nylonplastic.com) – engineering-grade filaments for demanding applications since 2005.*
